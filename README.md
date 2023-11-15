@@ -11,7 +11,7 @@ This project involves training a Convolutional Neural Network (CNN) for facial e
 
 ## Dataset:
   Download Your Dataset from Here
-- [Kaggle Food Image Dataset](https://www.kaggle.com/datasets/ashishpatel26/fer2018)
+- [Kaggle FER2018](https://www.kaggle.com/datasets/ashishpatel26/fer2018)
 
 ## How to Use
 1. Clone the repository:
